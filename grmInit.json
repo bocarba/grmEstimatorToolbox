@@ -1,0 +1,1 @@
+{"U1V_rho": -0.3, "Y1_beta": [0.1, 0.2, 0.3], "U0V_rho": 0.3, "maxiter": 10, "numAgents": 10000, "D_gamma": [0.1, -0.1], "Y0_beta": [-0.1, 0.2, 0.3], "V_var": 1.0, "U0_var": 0.01, "randomSeed": 123, "U1_var": 0.01, "fileName": "grmData.dat"}

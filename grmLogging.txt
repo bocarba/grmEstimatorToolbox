@@ -1,0 +1,8 @@
+
+ LogFile of Generalized Roy Toolbox 
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.120573
+         Iterations: 10
+         Function evaluations: 238
+         Gradient evaluations: 17
